@@ -1,0 +1,364 @@
+Time of login: 2020-04-09 01:40:12 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 01:41:05 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 01:43:46 GMT 
+ID: OM-4
+Name: Kirk Vandall
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: kirk@max.com
+==============================
+Time of login: 2020-04-09 02:04:54 GMT 
+ID: OM-4
+Name: Kirk Vandall
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: kirk@max.com
+==============================
+Time of login: 2020-04-09 02:05:35 GMT 
+ID: OM-4
+Name: Kirk Vandall
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: kirk@max.com
+==============================
+Time of login: 2020-04-09 02:07:59 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:08:26 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:16:44 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:18:41 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:29:09 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 02:31:13 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 02:33:37 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:36:37 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 02:55:53 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 02:56:54 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 02:57:36 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 02:59:31 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 03:00:12 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 03:08:07 GMT 
+ID: TL-2
+Name: Brianna Blake
+Designation: Team Lead (TL)
+Department: Shipping
+Email: brianna@matrix.com
+==============================
+Time of login: 2020-04-09 03:16:41 GMT 
+ID: TL-2
+Name: Brianna Blake
+Designation: Team Lead (TL)
+Department: Shipping
+Email: brianna@matrix.com
+==============================
+Time of login: 2020-04-09 03:18:16 GMT 
+ID: TL-2
+Name: Brianna Blake
+Designation: Team Lead (TL)
+Department: Shipping
+Email: brianna@matrix.com
+==============================
+Time of login: 2020-04-09 03:20:03 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 03:23:51 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 09:24:51 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 09:27:00 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 09:34:05 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 09:36:42 GMT 
+ID: OM-4
+Name: Kirk Vandall
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: kirk@max.com
+==============================
+Time of login: 2020-04-09 09:37:36 GMT 
+ID: TM-2
+Name: Tracy Duthie
+Designation: Team Member (TM)
+Department: Packaging
+Email: tracy@matrix.com
+==============================
+Time of login: 2020-04-09 09:40:15 GMT 
+ID: OM-3
+Name: Oppong Aywe
+Designation: Operations Manager (OM)
+Department: Receiving
+Email: oppong@matrix.com
+==============================
+Time of login: 2020-04-09 11:24:39 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 12:10:20 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 12:20:59 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 13:01:26 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 13:05:34 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 13:20:26 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 13:22:38 GMT 
+ID: OM-2
+Name: TundeManagerA Olowu
+Designation: Operations Manager (OM)
+Department: Shipping
+Email: tundemanagerA@max.com
+==============================
+Time of login: 2020-04-09 13:26:21 GMT 
+ID: TM-2
+Name: Tunde Tee
+Designation: Team Member (TM)
+Department: Shipping
+Email: teea@max.com
+==============================
+Time of login: 2020-04-09 13:40:55 GMT 
+ID: TM-3
+Name: TundeMemberA Olowu
+Designation: Team Member (TM)
+Department: Shipping
+Email: tundeMemberA@max.com
+==============================
+Time of login: 2020-04-09 13:41:17 GMT 
+ID: TM-3
+Name: TundeMemberA Olowu
+Designation: Team Member (TM)
+Department: Shipping
+Email: tundeMemberA@max.com
+==============================
+Time of login: 2020-04-09 13:45:16 GMT 
+ID: OM-2
+Name: AUserOM Tunde
+Designation: Operations Manager (OM)
+Department: Packaging
+Email: auserom@max.com
+==============================
+Time of login: 2020-04-09 13:47:04 GMT 
+ID: OM-2
+Name: AUserOM Tunde
+Designation: Operations Manager (OM)
+Department: Packaging
+Email: auserom@max.com
+==============================
+Time of login: 2020-04-09 13:49:40 GMT 
+ID: TL-2
+Name: AUserTL Seyi
+Designation: Team Lead (TL)
+Department: Shipping
+Email: ausertl@max.com
+==============================
+Time of login: 2020-04-09 13:52:18 GMT 
+ID: TL-2
+Name: AUserTL Seyi
+Designation: Team Lead (TL)
+Department: Shipping
+Email: ausertl@max.com
+==============================
+Time of login: 2020-04-09 13:55:15 GMT 
+ID: TM-2
+Name: AUserTM Xyluz
+Designation: Team Member (TM)
+Department: Receiving
+Email: ausertm@max.com
+==============================
+Time of login: 2020-04-09 13:57:42 GMT 
+ID: TM-2
+Name: AUserTM Xyluz
+Designation: Team Member (TM)
+Department: Receiving
+Email: ausertm@max.com
+==============================
+Time of login: 2020-04-09 13:58:49 GMT 
+ID: TL-2
+Name: AUserTL Seyi
+Designation: Team Lead (TL)
+Department: Shipping
+Email: ausertl@max.com
+==============================
+Time of login: 2020-04-09 14:08:53 GMT 
+ID: OM-2
+Name: AUserOM Tunde
+Designation: Operations Manager (OM)
+Department: Packaging
+Email: auserom@max.com
+==============================
+Time of login: 2020-04-09 14:26:47 GMT 
+ID: OM-2
+Name: AUserOM Tunde
+Designation: Operations Manager (OM)
+Department: Packaging
+Email: auserom@max.com
+==============================
+Time of login: 2020-04-09 14:59:33 GMT 
+ID: TL-2
+Name: AUserTL Seyi
+Designation: Team Lead (TL)
+Department: Shipping
+Email: ausertl@max.com
+==============================
+Time of login: 2020-04-09 15:07:16 GMT 
+ID: TM-2
+Name: AUserTM Xyluz
+Designation: Team Member (TM)
+Department: Receiving
+Email: ausertm@max.com
+==============================
+Time of login: 2020-04-09 15:25:15 GMT 
+ID: OM-2
+Name: AUserOM Tunde
+Designation: Operations Manager (OM)
+Department: Packaging
+Email: auserom@max.com
+==============================
+Time of login: 2020-04-09 15:26:06 GMT 
+ID: TL-2
+Name: AUserTL Seyi
+Designation: Team Lead (TL)
+Department: Shipping
+Email: ausertl@max.com
+==============================
